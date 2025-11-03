@@ -1,12 +1,12 @@
 ---
 permalink: /
-title: "Who am I?"
+title: "wellcome to your visit"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
+# About me
 I am Haitao Zhang, a Ph.D. candicate at Chang'an university, supervised by [Prof. Yuanqung Wang](https://js.chd.edu.cn/ysgcxy/wyq/list.psp). From April 2025, I conduct my research at the University of Auckland as visiting Ph.D. student, co-supervised by [Assoc. Prof. Theunis F.P. Henning](https://profiles.auckland.ac.nz/t-henning). I have maintained a continuous focus on sustainability in transportation infrastructure, especially the low-carbon trade-offs of highway from a life cycle perspective. Currently I do my research at:
 - School of Transportation Engineering, Chang’an University;
 - Department of Civil and Environmental Engineering, University of Auckland;
@@ -19,7 +19,8 @@ I am Haitao Zhang, a Ph.D. candicate at Chang'an university, supervised by [Prof
 
 
 # Contributions
-# ======
-# [road map](https://www.sciencedirect.com/science/article/pii/S0957582024015465)
 
 
+
+
+updated on Nov. 4, 2025
