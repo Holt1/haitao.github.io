@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "wellcome to your visit"
+title: "WELLCOM!"
 author_profile: true
 redirect_from: 
   - /about/
@@ -14,13 +14,11 @@ I am Haitao Zhang, a Ph.D. candicate at Chang'an university, supervised by [Prof
 - Key Laboratory of Transport Industry of Management, Control and Cycle Repair Technology for Traffic Network Facilities in Ecological Security Barrier Area;
 - Transportation Research Centre of UoA.
 
-
-
-
-
 # Contributions
 
+BUILDING........
 
 
-
-updated on Nov. 4, 2025
+## NOTE
+- I just start to build my personal website and will not be updating it frequently. It is a big project! Please contact me at haitao.zhang@che.edu.cn if you would like to learn more.
+- updated on 4 Nov., 2025
