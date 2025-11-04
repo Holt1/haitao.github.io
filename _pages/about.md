@@ -35,8 +35,14 @@ BUILDING........
 - ***July 15-17*** : Our research was presented at [CICTP 2023](https://cota2023-bjut.mysxl.cn/) in Beijing, China.  
 
 
+  
 BUILDING........
 
-## NOTE
-- I just start to build my personal website and will not be updating it frequently. It is a big project! Please contact me at haitao.zhang@che.edu.cn if you would like to learn more.
-- updated on 4 Nov., 2025
+
+
+  
+# Notes
+**2025**
+- ***Nov. 5*** : Add some important news.
+- ***Nov. 4*** : I just start to build my personal website and will not be updating it frequently. It is a big project! Please contact me at [haitao.zhang@che.edu.cn](haitao.zhang@che.edu.cn) if you would like to learn more.
+
