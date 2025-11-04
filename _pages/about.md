@@ -28,8 +28,7 @@ BUILDING........
 - ***July 24 to August 4***: I attented the 1st Sino-France Carbon Neutrality Summer School and 2024 CEADs Summer Camp ([LINK](https://www.icon.tsinghua.edu.cn/en/info/1086/1087.htm)) launched in Harbin, China. 
 
 - ***July 15-17***: My junior colleague attended [CICTP 2024](https://utl.sztu.edu.cn/cictp2024/#/) on my behalf in Shenzhen, China.  
-
-
+- ***July 7***: Host the sixth session of the Youth Lecture Series([TRZ青年讲堂](https://mp.weixin.qq.com/s/nz_XF7-UT5KLRe4YQvKTyg) in Chinese). From Jiaotongbang (WeChat Official Account, *交通邦* in Chinese).
 
 **2023**
 
