@@ -18,6 +18,25 @@ I am Haitao Zhang, a Ph.D. candicate at Chang'an university, supervised by [Prof
 
 BUILDING........
 
+# News
+**2025**
+
+- ***July 22-25***: Our research was presented at the [CICTP 2025](https://cictp2025.scievent.com/) in Guangdong, China.  
+
+**2024**
+
+- ***July 24 to August 4***: I attented the 1st Sino-France Carbon Neutrality Summer School and 2024 CEADs Summer Camp ([LINK](https://www.icon.tsinghua.edu.cn/en/info/1086/1087.htm)) launched in Harbin, China. 
+
+- ***July 15-17***: My junior colleague attended [CICTP 2024](https://utl.sztu.edu.cn/cictp2024/#/) on my behalf in Shenzhen, China.  
+
+
+
+**2023**
+
+- ***July 15-17***: Our research was presented at [CICTP 2023](https://cota2023-bjut.mysxl.cn/) in Beijing, China.  
+
+
+BUILDING........
 
 ## NOTE
 - I just start to build my personal website and will not be updating it frequently. It is a big project! Please contact me at haitao.zhang@che.edu.cn if you would like to learn more.
