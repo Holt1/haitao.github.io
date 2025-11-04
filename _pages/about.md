@@ -21,18 +21,18 @@ BUILDING........
 # News
 **2025**
 
-- ***July 22-25***: Our research was presented at the [CICTP 2025](https://cictp2025.scievent.com/) in Guangdong, China.  
+- ***July 22-25*** : Our research was presented at the [CICTP 2025](https://cictp2025.scievent.com/) in Guangdong, China.  
 
 **2024**
 
-- ***July 24 to August 4***: I attented the 1st Sino-France Carbon Neutrality Summer School and 2024 CEADs Summer Camp ([LINK](https://www.icon.tsinghua.edu.cn/en/info/1086/1087.htm)) launched in Harbin, China. 
+- ***July 24 to August 4*** : I attented the 1st Sino-France Carbon Neutrality Summer School and 2024 CEADs Summer Camp ([LINK](https://www.icon.tsinghua.edu.cn/en/info/1086/1087.htm)) launched in Harbin, China. 
 
-- ***July 15-17***: My junior colleague attended [CICTP 2024](https://utl.sztu.edu.cn/cictp2024/#/) on my behalf in Shenzhen, China.  
-- ***July 7***: Host the sixth session of the Youth Lecture Series([TRZ青年讲堂](https://mp.weixin.qq.com/s/nz_XF7-UT5KLRe4YQvKTyg) in Chinese). From Jiaotongbang (WeChat Official Account, *交通邦* in Chinese).
+- ***July 15-17*** : My junior colleague attended [CICTP 2024](https://utl.sztu.edu.cn/cictp2024/#/) on my behalf in Shenzhen, China.  
+- ***July 7*** : Host the sixth session of the Youth Lecture Series([TRZ青年讲堂](https://mp.weixin.qq.com/s/nz_XF7-UT5KLRe4YQvKTyg) in Chinese). From Jiaotongbang (WeChat Official Account, *交通邦* in Chinese).
 
 **2023**
 
-- ***July 15-17***: Our research was presented at [CICTP 2023](https://cota2023-bjut.mysxl.cn/) in Beijing, China.  
+- ***July 15-17*** : Our research was presented at [CICTP 2023](https://cota2023-bjut.mysxl.cn/) in Beijing, China.  
 
 
 BUILDING........
